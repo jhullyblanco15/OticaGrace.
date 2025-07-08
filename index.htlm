@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ótica Grace</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      color: #1d3c5d;
+      text-align: center;
+    }
+    header {
+      background-color: #1d3c5d;
+      color: white;
+      padding: 40px 20px;
+    }
+    h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+    p.slogan {
+      font-size: 18px;
+      color: #f0e68c; /* dourado claro */
+      margin-top: 10px;
+    }
+    .content {
+      padding: 40px 20px;
+    }
+    .btn-whatsapp {
+      background-color: #1d3c5d;
+      color: white;
+      padding: 12px 24px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 16px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    .footer {
+      background-color: #dcdcdc;
+      padding: 20px;
+      color: #333;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ótica Grace</h1>
+    <p class="slogan">Seus olhos guardam o que é eterno</p>
+  </header>
+
+  <div class="content">
+    <h2>Bem-vindo à nossa ótica!</h2>
+    <p>Oferecemos qualidade, transparência e o melhor para sua visão.</p>
+    <a href="https://wa.me/559184050844" target="_blank" class="btn-whatsapp">
+      Fale conosco pelo WhatsApp
+    </a>
+  </div>
+
+  <div class="footer">
+    © 2025 Ótica Grace. Todos os direitos reservados.
+  </div>
+</body>
+</html>
